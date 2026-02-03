@@ -1,1 +1,1 @@
-# aws-ec2-terraform
+Add AWS EC2 manual and Terraform documentation
